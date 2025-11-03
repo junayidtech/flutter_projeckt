@@ -1,0 +1,6 @@
+package com.mycompany.earnx
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
